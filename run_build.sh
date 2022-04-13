@@ -1,0 +1,1 @@
+cmake .. -DTENSORRT_ROOT=/workspace/TensorRT -DBUILD_LIBRARY_ONLY=1 && make -j
